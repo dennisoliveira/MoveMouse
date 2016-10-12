@@ -1,0 +1,9 @@
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\bin\Debug\Move Mouse.exe.config
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\bin\Debug\Move Mouse.exe
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\bin\Debug\Move Mouse.pdb
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\obj\Debug\MoveMouse.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\obj\Debug\MoveMouse.frmPrincipal.resources
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\obj\Debug\MoveMouse.Properties.Resources.resources
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\obj\Debug\MoveMouse.csproj.GenerateResource.Cache
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\obj\Debug\Move Mouse.exe
+C:\Users\Dennis\Desktop\MoveMouse\MoveMouse\obj\Debug\Move Mouse.pdb
